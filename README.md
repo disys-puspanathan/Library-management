@@ -1,2 +1,2 @@
 # Library-management
-use case
+This use case is for learning and training
